@@ -1,0 +1,13 @@
+ram_gb,disc_gb,tipus_disc,cpu_gamma,polzades,grafica_dedicada,bateria_wh,pes_kg
+8,512,SSD,mitjana,14.0,no,50,1.38
+16,1024,SSD,alta,15.6,si,70,1.92
+4,256,HDD,baixa,15.6,no,41,1.85
+32,1024,SSD,alta,16.0,si,86,2.05
+8,256,SSD,baixa,13.3,no,41,1.12
+16,512,SSD,mitjana,15.6,no,56,1.70
+16,512,SSD,alta,14.0,no,70,1.29
+8,1024,HDD,mitjana,17.3,no,50,2.40
+32,2048,SSD,alta,17.3,si,86,2.55
+4,512,SSD,baixa,14.0,no,41,1.45
+16,1024,SSD,mitjana,16.0,si,70,1.98
+8,512,SSD,mitjana,13.3,no,56,1.05
